@@ -1,0 +1,15 @@
+{
+  "workspaces": {
+    "packages": [
+      "examples/optional-chaining"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Wilson <blake.id>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
